@@ -4,7 +4,7 @@ Layout and Appearance Alignment</h1>
 <span style="font-size: 12px; font-weight: 800;"> This repository supports end-to-end simultaneous multi-layer image generation given textual prompts only. With enhanced spatial and content interactions among layers, it enusures harmonized composite image.
   
 <!-- TODO List -->
-## 🚧 TODO List
+##  TODO List
 - [ ] Release Inter-Layer Dataset
 - [ ] Release inference code and pretrained model
 
